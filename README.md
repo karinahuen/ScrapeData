@@ -17,3 +17,5 @@ https://scrapedata-vso0.onrender.com
 - **Data Processing:** Pandas
 - **Visualization:** Plotly Express
 - **Deployment:** Render Cloud
+
+<img width="1387" height="824" alt="Image" src="https://github.com/user-attachments/assets/4e119cce-6a05-4d33-9608-2b03fc60e936" />
